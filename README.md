@@ -2,8 +2,8 @@
 mostly used Java Design patterns
 
 # Creational Design Patterns
-Singleton Pattern__
-Factory Pattern
+Singleton Pattern  
+Factory Pattern  
 Abstract Factory Pattern
 Builder Pattern
 Prototype Pattern
