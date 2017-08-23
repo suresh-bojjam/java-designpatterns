@@ -2,7 +2,7 @@
 mostly used Java Design patterns
 
 # Creational Design Patterns
-Singleton Pattern
+Singleton Pattern__
 Factory Pattern
 Abstract Factory Pattern
 Builder Pattern
